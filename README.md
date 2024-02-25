@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=NishantBansal2003&style=flat-square&color=blue" alt=""/>
   <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;It's+Nishant+Bansal....;Nice+to+e-meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;It's+Nishant+Here....;Nice+to+e-meet+you!&center=true&size=30">
   </a>
 </h1>
   <div align="center">
