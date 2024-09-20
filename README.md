@@ -55,6 +55,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=NishantBansal2003&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### :fire: My Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NishantBansal2003&show_icons=true&theme=tokyonight" />
