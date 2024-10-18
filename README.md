@@ -66,6 +66,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### :computer: Github 3D Contribution
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 ### :zap: Recent Activity :
 
 This is a list of my most recent activity on GitHub.
@@ -82,9 +88,3 @@ This is a list of my most recent activity on GitHub.
 9. 🗣 Commented on [#3537](https://github.com/OSGeo/grass/issues/3537#issuecomment-2413166029) in [OSGeo/grass](https://github.com/OSGeo/grass)
 10. 🗣 Commented on [#243](https://github.com/kcl-lang/modules/pull/243#issuecomment-2408651863) in [kcl-lang/modules](https://github.com/kcl-lang/modules)
 <!--END_SECTION:activity-->
-
----
-
-### :computer: Github 3D Contribution
-
-![](./profile-3d-contrib/profile-green-animate.svg)
