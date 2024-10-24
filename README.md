@@ -22,9 +22,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m contributing to frontend, backend and cloud-native technologies.
+- :telescope: I contribute to web backend, compilers, end-user applications, and cloud-native technologies in open source.
 
 - :zap: In my free time, I do Competitve programming.
 
