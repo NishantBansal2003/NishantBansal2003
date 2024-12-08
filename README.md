@@ -77,14 +77,14 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2462](https://github.com/keploy/keploy/pull/2462) in [keploy/keploy](https://github.com/keploy/keploy)
-2. 💪 Opened PR [#2461](https://github.com/keploy/keploy/pull/2461) in [keploy/keploy](https://github.com/keploy/keploy)
-3. ❗ Opened issue [#2460](https://github.com/keploy/keploy/issues/2460) in [keploy/keploy](https://github.com/keploy/keploy)
-4. 🗣 Commented on [#2125](https://github.com/keploy/keploy/issues/2125#issuecomment-2522415702) in [keploy/keploy](https://github.com/keploy/keploy)
-5. 🗣 Commented on [#2459](https://github.com/keploy/keploy/pull/2459#issuecomment-2522309010) in [keploy/keploy](https://github.com/keploy/keploy)
-6. 🗣 Commented on [#4801](https://github.com/OSGeo/grass/pull/4801#issuecomment-2521362158) in [OSGeo/grass](https://github.com/OSGeo/grass)
-7. 🗣 Commented on [#2459](https://github.com/keploy/keploy/pull/2459#issuecomment-2521312842) in [keploy/keploy](https://github.com/keploy/keploy)
-8. 💪 Opened PR [#2459](https://github.com/keploy/keploy/pull/2459) in [keploy/keploy](https://github.com/keploy/keploy)
-9. 💪 Opened PR [#4801](https://github.com/OSGeo/grass/pull/4801) in [OSGeo/grass](https://github.com/OSGeo/grass)
-10. 💪 Opened PR [#4](https://github.com/NishantBansal2003/grass/pull/4) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+1. ❌ Closed PR [#1](https://github.com/NishantBansal2003/keploy/pull/1) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
+2. 🗣 Commented on [#4801](https://github.com/OSGeo/grass/pull/4801#issuecomment-2523983409) in [OSGeo/grass](https://github.com/OSGeo/grass)
+3. 💪 Opened PR [#1](https://github.com/NishantBansal2003/keploy/pull/1) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
+4. 💪 Opened PR [#2462](https://github.com/keploy/keploy/pull/2462) in [keploy/keploy](https://github.com/keploy/keploy)
+5. 💪 Opened PR [#2461](https://github.com/keploy/keploy/pull/2461) in [keploy/keploy](https://github.com/keploy/keploy)
+6. ❗ Opened issue [#2460](https://github.com/keploy/keploy/issues/2460) in [keploy/keploy](https://github.com/keploy/keploy)
+7. 🗣 Commented on [#2125](https://github.com/keploy/keploy/issues/2125#issuecomment-2522415702) in [keploy/keploy](https://github.com/keploy/keploy)
+8. 🗣 Commented on [#2459](https://github.com/keploy/keploy/pull/2459#issuecomment-2522309010) in [keploy/keploy](https://github.com/keploy/keploy)
+9. 🗣 Commented on [#4801](https://github.com/OSGeo/grass/pull/4801#issuecomment-2521362158) in [OSGeo/grass](https://github.com/OSGeo/grass)
+10. 🗣 Commented on [#2459](https://github.com/keploy/keploy/pull/2459#issuecomment-2521312842) in [keploy/keploy](https://github.com/keploy/keploy)
 <!--END_SECTION:activity-->
