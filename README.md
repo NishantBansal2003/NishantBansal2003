@@ -77,14 +77,14 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2465](https://github.com/keploy/keploy/pull/2465) in [keploy/keploy](https://github.com/keploy/keploy)
-2. 💪 Opened PR [#2](https://github.com/NishantBansal2003/keploy/pull/2) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
-3. 🗣 Commented on [#2303](https://github.com/keploy/keploy/issues/2303#issuecomment-2531154117) in [keploy/keploy](https://github.com/keploy/keploy)
-4. 🗣 Commented on [#2327](https://github.com/keploy/keploy/issues/2327#issuecomment-2531080332) in [keploy/keploy](https://github.com/keploy/keploy)
-5. ❌ Closed PR [#5147](https://github.com/lfortran/lfortran/pull/5147) in [lfortran/lfortran](https://github.com/lfortran/lfortran)
-6. ❌ Closed PR [#1](https://github.com/NishantBansal2003/keploy/pull/1) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
-7. 🗣 Commented on [#4801](https://github.com/OSGeo/grass/pull/4801#issuecomment-2523983409) in [OSGeo/grass](https://github.com/OSGeo/grass)
-8. 💪 Opened PR [#1](https://github.com/NishantBansal2003/keploy/pull/1) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
-9. 💪 Opened PR [#2462](https://github.com/keploy/keploy/pull/2462) in [keploy/keploy](https://github.com/keploy/keploy)
-10. 💪 Opened PR [#2461](https://github.com/keploy/keploy/pull/2461) in [keploy/keploy](https://github.com/keploy/keploy)
+1. 🗣 Commented on [#2242](https://github.com/keploy/keploy/issues/2242#issuecomment-2538246170) in [keploy/keploy](https://github.com/keploy/keploy)
+2. 💪 Opened PR [#2467](https://github.com/keploy/keploy/pull/2467) in [keploy/keploy](https://github.com/keploy/keploy)
+3. 🗣 Commented on [#2](https://github.com/NishantBansal2003/keploy/pull/2#issuecomment-2537932504) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
+4. 🗣 Commented on [#2](https://github.com/NishantBansal2003/keploy/pull/2#issuecomment-2537931155) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
+5. 🗣 Commented on [#2](https://github.com/NishantBansal2003/keploy/pull/2#issuecomment-2537892442) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
+6. 🗣 Commented on [#4801](https://github.com/OSGeo/grass/pull/4801#issuecomment-2536514221) in [OSGeo/grass](https://github.com/OSGeo/grass)
+7. 💪 Opened PR [#2465](https://github.com/keploy/keploy/pull/2465) in [keploy/keploy](https://github.com/keploy/keploy)
+8. 💪 Opened PR [#2](https://github.com/NishantBansal2003/keploy/pull/2) in [NishantBansal2003/keploy](https://github.com/NishantBansal2003/keploy)
+9. 🗣 Commented on [#2303](https://github.com/keploy/keploy/issues/2303#issuecomment-2531154117) in [keploy/keploy](https://github.com/keploy/keploy)
+10. 🗣 Commented on [#2327](https://github.com/keploy/keploy/issues/2327#issuecomment-2531080332) in [keploy/keploy](https://github.com/keploy/keploy)
 <!--END_SECTION:activity-->
