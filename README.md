@@ -72,11 +72,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
----
+<!-- ---
 
 ### :zap: Recent Activity :
 
-This is a list of my most recent activity on GitHub.
+This is a list of my most recent activity on GitHub. -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
