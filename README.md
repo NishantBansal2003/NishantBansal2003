@@ -54,29 +54,29 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- ---
+---
 
 ### :fire: My Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NishantBansal2003&show_icons=true&theme=tokyonight" />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=NishantBansal2003&theme=tokyonight" />
-</p> -->
+</p>
 
-<!-- <p align="center"> -->
-<!--   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBansal2003&layout=compact&theme=tokyonight" /> -->
-<!-- </p> -->
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBansal2003&layout=compact&theme=tokyonight" />
+</p>
 
-<!-- --- -->
+---
 
-<!-- ### :computer: Github 3D Contribution -->
+### :computer: Github 3D Contribution
 
-<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- --- -->
+---
 
-<!-- ### :zap: Recent Activity : -->
+### :zap: Recent Activity :
 
-<!-- This is a list of my most recent activity on GitHub. -->
+This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
