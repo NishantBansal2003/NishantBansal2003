@@ -4,8 +4,11 @@
   <a href="https://www.linkedin.com/in/nishantbansal2003/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Nishant282003">
-    <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/Nishant282003">
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter Badge"/>
+  </a>
+  <a href="mailto:nishant.bansal.282003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=NishantBansal2003&style=flat-square&color=blue" alt=""/>
@@ -28,7 +31,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I do Competitve programming.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nishant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantbansal2003/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantbansal2003/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nishant.bansal.282003@gmail.com)
 
  ---
 
@@ -65,6 +68,27 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBansal2003&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### :telescope: My Open Source Contributions
+| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contributions |
+| --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/OSGeo-grass-green?style=flat)](https://github.com/OSGeo/grass) | ![GitHub Repo stars](https://img.shields.io/github/stars/OSGeo/grass?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/OSGeo/grass?style=flat) | [Issues](https://github.com/OSGeo/grass/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/OSGeo/grass/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/lightningnetwork-lnd-blue?style=flat)](https://github.com/lightningnetwork/lnd) | ![GitHub Repo stars](https://img.shields.io/github/stars/lightningnetwork/lnd?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lightningnetwork/lnd?style=flat) | [Issues](https://github.com/lightningnetwork/lnd/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/lightningnetwork/lnd/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/ElementsProject-lightning-purple?style=flat)](https://github.com/ElementsProject/lightning) | ![GitHub Repo stars](https://img.shields.io/github/stars/ElementsProject/lightning?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/ElementsProject/lightning?style=flat) | [Issues](https://github.com/ElementsProject/lightning/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/ElementsProject/lightning/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/kcl.lang-kpm-yellow?style=flat)](https://github.com/kcl-lang/kpm) | ![GitHub Repo stars](https://img.shields.io/github/stars/kcl-lang/kpm?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/kcl-lang/kpm?style=flat) | [Issues](https://github.com/kcl-lang/kpm/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/kcl-lang/kpm/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/kcl.lang-modules-rainbow?style=flat)](https://github.com/kcl-lang/modules) | ![GitHub Repo stars](https://img.shields.io/github/stars/kcl-lang/modules?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/kcl-lang/modules?style=flat) | [Issues](https://github.com/kcl-lang/modules/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/kcl-lang/modules/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/keploy-keploy-orange?style=flat)](https://github.com/keploy/keploy) | ![GitHub Repo stars](https://img.shields.io/github/stars/keploy/keploy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/keploy/keploy?style=flat) | [Issues](https://github.com/keploy/keploy/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/keploy/keploy/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/keploy-samplesgo-darkorange?style=flat)](https://github.com/keploy/samples-go) | ![GitHub Repo stars](https://img.shields.io/github/stars/keploy/samples-go?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/keploy/samples-go?style=flat) | [Issues](https://github.com/keploy/samples-go/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/keploy/samples-go/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/karmada.io-karmada-lightblue?style=flat)](https://github.com/karmada-io/karmada) | ![GitHub Repo stars](https://img.shields.io/github/stars/karmada-io/karmada?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/karmada-io/karmada?style=flat) | [Issues](https://github.com/karmada-io/karmada/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/karmada-io/karmada/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/kubeedge-kubeedge-darkblue?style=flat)](https://github.com/kubeedge/kubeedge) | ![GitHub Repo stars](https://img.shields.io/github/stars/kubeedge/kubeedge?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/kubeedge/kubeedge?style=flat) | [Issues](https://github.com/kubeedge/kubeedge/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/kubeedge/kubeedge/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/thanos.io-thanos-violet?style=flat)](https://github.com/thanos-io/thanos) | ![GitHub Repo stars](https://img.shields.io/github/stars/thanos-io/thanos?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/thanos-io/thanos?style=flat) | [Issues](https://github.com/thanos-io/thanos/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/thanos-io/thanos/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/lcompilers-lpython-yellow?style=flat)](https://github.com/lcompilers/lpython) | ![GitHub Repo stars](https://img.shields.io/github/stars/lcompilers/lpython?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lcompilers/lpython?style=flat) | [Issues](https://github.com/lcompilers/lpython/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/lcompilers/lpython/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+| [![Github Repo](https://img.shields.io/badge/lfortran-lfortran-brown?style=flat)](https://github.com/lfortran/lfortran) | ![GitHub Repo stars](https://img.shields.io/github/stars/lfortran/lfortran?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lfortran/lfortran?style=flat) | [Issues](https://github.com/lfortran/lfortran/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/lfortran/lfortran/pulls?q=is%3Apr+author%3ANishantBansal2003+)
+
+
+
 
 ---
 
