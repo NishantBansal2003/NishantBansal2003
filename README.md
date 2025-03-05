@@ -22,20 +22,19 @@
 </div>
 </div>
 
----
 
-### :man_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+## :man_technologist: About Me :
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, passionate about building innovative solutions and contributing to the open source community.
+- Experience:
+  - 🎓 LFX Mentee with CNCF-KCL (Sept 2024 – Nov 2024)
+  - 👨‍💻 SWE Intern at Cisco (May 2024 – July 2024)
+-  🚀 Actively involved in open source projects focused on web backend development, end-user applications, cloud-native solutions, and blockchain technologies.
+- 🏆 I enjoy competitive programming in my free time, constantly challenging myself to grow and innovate.
 
-- :telescope: I contribute to web backend, end-user applications, cloud-native and blockchain technologies in open source.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantbansal2003/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nishant.bansal.282003@gmail.com)
 
-- :zap: In my free time, I do Competitve programming.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantbansal2003/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nishant.bansal.282003@gmail.com)
-
- ---
-
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -57,9 +56,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
 
----
+<!-- ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NishantBansal2003&show_icons=true&theme=tokyonight" />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=NishantBansal2003&theme=tokyonight" />
@@ -67,11 +66,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBansal2003&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
----
-
-### :telescope: My Open Source Contributions
+## :telescope: My Open Source Contributions
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contributions |
 | --- | --- | --- | --- |
 | [![Github Repo](https://img.shields.io/badge/OSGeo-grass-green?style=flat)](https://github.com/OSGeo/grass) | ![GitHub Repo stars](https://img.shields.io/github/stars/OSGeo/grass?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/OSGeo/grass?style=flat) | [Issues](https://github.com/OSGeo/grass/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/OSGeo/grass/pulls?q=is%3Apr+author%3ANishantBansal2003+)
@@ -88,17 +85,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 | [![Github Repo](https://img.shields.io/badge/lfortran-lfortran-brown?style=flat)](https://github.com/lfortran/lfortran) | ![GitHub Repo stars](https://img.shields.io/github/stars/lfortran/lfortran?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lfortran/lfortran?style=flat) | [Issues](https://github.com/lfortran/lfortran/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/lfortran/lfortran/pulls?q=is%3Apr+author%3ANishantBansal2003+)
 
 
-
-
----
-
-### :computer: Github 3D Contribution
+## :computer: Github 3D Contribution
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
----
 
-### :zap: Recent Activity :
+## :zap: Recent Activity :
 
 This is a list of my most recent activity on GitHub.
 
