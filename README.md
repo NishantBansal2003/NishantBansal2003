@@ -100,15 +100,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/NishantBansal2003/LND-Fuzz/pull/4) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
-2. 💪 Opened PR [#4](https://github.com/NishantBansal2003/LND-Fuzz/pull/4) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
-3. 🎉 Merged PR [#3](https://github.com/NishantBansal2003/LND-Fuzz/pull/3) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
-4. 💪 Opened PR [#3](https://github.com/NishantBansal2003/LND-Fuzz/pull/3) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
-5. 🎉 Merged PR [#2](https://github.com/NishantBansal2003/LND-Fuzz/pull/2) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
-6. 💪 Opened PR [#2](https://github.com/NishantBansal2003/LND-Fuzz/pull/2) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
-7. 🗣 Commented on [#9677](https://github.com/lightningnetwork/lnd/pull/9677#issuecomment-2875071617) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
-8. 🗣 Commented on [#9744](https://github.com/lightningnetwork/lnd/pull/9744#issuecomment-2837764088) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
-9. 🗣 Commented on [#5549](https://github.com/OSGeo/grass/pull/5549#issuecomment-2831830367) in [OSGeo/grass](https://github.com/OSGeo/grass)
-10. 🗣 Commented on [#5549](https://github.com/OSGeo/grass/pull/5549#issuecomment-2821902132) in [OSGeo/grass](https://github.com/OSGeo/grass)
+1. 🎉 Merged PR [#5](https://github.com/NishantBansal2003/LND-Fuzz/pull/5) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
+2. 💪 Opened PR [#5](https://github.com/NishantBansal2003/LND-Fuzz/pull/5) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
+3. 🎉 Merged PR [#4](https://github.com/NishantBansal2003/LND-Fuzz/pull/4) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
+4. 💪 Opened PR [#4](https://github.com/NishantBansal2003/LND-Fuzz/pull/4) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
+5. 🎉 Merged PR [#3](https://github.com/NishantBansal2003/LND-Fuzz/pull/3) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
+6. 💪 Opened PR [#3](https://github.com/NishantBansal2003/LND-Fuzz/pull/3) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
+7. 🎉 Merged PR [#2](https://github.com/NishantBansal2003/LND-Fuzz/pull/2) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
+8. 💪 Opened PR [#2](https://github.com/NishantBansal2003/LND-Fuzz/pull/2) in [NishantBansal2003/LND-Fuzz](https://github.com/NishantBansal2003/LND-Fuzz)
+9. 🗣 Commented on [#9677](https://github.com/lightningnetwork/lnd/pull/9677#issuecomment-2875071617) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
+10. 🗣 Commented on [#9744](https://github.com/lightningnetwork/lnd/pull/9744#issuecomment-2837764088) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
 <!--END_SECTION:activity-->
 
