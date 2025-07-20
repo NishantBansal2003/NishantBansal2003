@@ -107,15 +107,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/15#issuecomment-3092312817) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
-2. 💪 Opened PR [#6077](https://github.com/OSGeo/grass/pull/6077) in [OSGeo/grass](https://github.com/OSGeo/grass)
-3. 💪 Opened PR [#15](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/15) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
-4. 💪 Opened PR [#6075](https://github.com/OSGeo/grass/pull/6075) in [OSGeo/grass](https://github.com/OSGeo/grass)
-5. 💪 Opened PR [#43](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/43) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-6. 🎉 Merged PR [#11](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/11) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
-7. 💪 Opened PR [#14](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/14) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
-8. 💪 Opened PR [#6066](https://github.com/OSGeo/grass/pull/6066) in [OSGeo/grass](https://github.com/OSGeo/grass)
-9. 🗣 Commented on [#41](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/41#issuecomment-3070949429) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-10. 💪 Opened PR [#41](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/41) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+1. ❌ Closed PR [#9](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/9) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
+2. ❌ Closed PR [#7](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/7) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
+3. ❌ Closed PR [#6](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/6) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
+4. ❌ Closed PR [#3](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/3) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
+5. ❌ Closed PR [#28](https://github.com/NishantBansal2003/grass/pull/28) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+6. ❌ Closed PR [#29](https://github.com/NishantBansal2003/grass/pull/29) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+7. ❌ Closed PR [#26](https://github.com/NishantBansal2003/grass/pull/26) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+8. ❌ Closed PR [#23](https://github.com/NishantBansal2003/grass/pull/23) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+9. ❌ Closed PR [#22](https://github.com/NishantBansal2003/grass/pull/22) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+10. 💪 Opened PR [#44](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/44) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
 <!--END_SECTION:activity-->
 
