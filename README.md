@@ -107,15 +107,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9432](https://github.com/lightningnetwork/lnd/pull/9432#issuecomment-3201477572) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
-2. 🔒 Closed issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-3. 🔓 Reopened issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-4. 🔓 Reopened issue [#8](https://github.com/NishantBansal2003/go-fuzzing-example/issues/8) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-5. 🔓 Reopened issue [#7](https://github.com/NishantBansal2003/go-fuzzing-example/issues/7) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-6. 🔓 Reopened issue [#6](https://github.com/NishantBansal2003/go-fuzzing-example/issues/6) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-7. 🔒 Closed issue [#8](https://github.com/NishantBansal2003/go-fuzzing-example/issues/8) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-8. 🔒 Closed issue [#7](https://github.com/NishantBansal2003/go-fuzzing-example/issues/7) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-9. 🔒 Closed issue [#6](https://github.com/NishantBansal2003/go-fuzzing-example/issues/6) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-10. 🔓 Reopened issue [#6](https://github.com/NishantBansal2003/go-fuzzing-example/issues/6) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+1. 🗣 Commented on [#48](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/48#issuecomment-3215087845) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+2. 💪 Opened PR [#47](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/47) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+3. 🗣 Commented on [#46](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/46#issuecomment-3214970172) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+4. ❗ Opened issue [#8](https://github.com/NishantBansal2003/continuous-fuzzing/issues/8) in [NishantBansal2003/continuous-fuzzing](https://github.com/NishantBansal2003/continuous-fuzzing)
+5. 🎉 Merged PR [#16](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/16) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
+6. 🗣 Commented on [#9432](https://github.com/lightningnetwork/lnd/pull/9432#issuecomment-3201477572) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
+7. 🔒 Closed issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+8. 🔓 Reopened issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+9. 🔓 Reopened issue [#8](https://github.com/NishantBansal2003/go-fuzzing-example/issues/8) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+10. 🔓 Reopened issue [#7](https://github.com/NishantBansal2003/go-fuzzing-example/issues/7) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
 <!--END_SECTION:activity-->
 
