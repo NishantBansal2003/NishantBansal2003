@@ -107,15 +107,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/57) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-2. ❗ Opened issue [#9](https://github.com/NishantBansal2003/continuous-fuzzing/issues/9) in [NishantBansal2003/continuous-fuzzing](https://github.com/NishantBansal2003/continuous-fuzzing)
-3. 🔒 Closed issue [#8](https://github.com/NishantBansal2003/continuous-fuzzing/issues/8) in [NishantBansal2003/continuous-fuzzing](https://github.com/NishantBansal2003/continuous-fuzzing)
-4. 🗣 Commented on [#48](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/48#issuecomment-3261119595) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-5. 🗣 Commented on [#3](https://github.com/NishantBansal2003/lnd/pull/3#issuecomment-3254404611) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-6. 🗣 Commented on [#56](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/56#issuecomment-3254239436) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-7. 🗣 Commented on [#48](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/48#issuecomment-3254147251) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-8. ❗ Opened issue [#56](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/56) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-9. 🗣 Commented on [#52](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/52#issuecomment-3249532428) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-10. 🗣 Commented on [#55](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/55#issuecomment-3249466166) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+1. 💪 Opened PR [#58](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/58) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+2. 💪 Opened PR [#9](https://github.com/go-continuous-fuzz/go-fuzzing-example/pull/9) in [go-continuous-fuzz/go-fuzzing-example](https://github.com/go-continuous-fuzz/go-fuzzing-example)
+3. ❌ Closed PR [#43](https://github.com/NishantBansal2003/grass/pull/43) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+4. ❌ Closed PR [#42](https://github.com/NishantBansal2003/grass/pull/42) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+5. ❌ Closed PR [#41](https://github.com/NishantBansal2003/grass/pull/41) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+6. ❌ Closed PR [#27](https://github.com/NishantBansal2003/grass/pull/27) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+7. 🗣 Commented on [#9677](https://github.com/lightningnetwork/lnd/pull/9677#issuecomment-3263648684) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
+8. 💪 Opened PR [#57](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/57) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+9. ❗ Opened issue [#9](https://github.com/NishantBansal2003/continuous-fuzzing/issues/9) in [NishantBansal2003/continuous-fuzzing](https://github.com/NishantBansal2003/continuous-fuzzing)
+10. 🔒 Closed issue [#8](https://github.com/NishantBansal2003/continuous-fuzzing/issues/8) in [NishantBansal2003/continuous-fuzzing](https://github.com/NishantBansal2003/continuous-fuzzing)
 <!--END_SECTION:activity-->
 
