@@ -107,15 +107,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/68#issuecomment-3289455296) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-2. 🎉 Merged PR [#3](https://github.com/NishantBansal2003/lnd/pull/3) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-3. 💪 Opened PR [#6345](https://github.com/OSGeo/grass/pull/6345) in [OSGeo/grass](https://github.com/OSGeo/grass)
-4. 💪 Opened PR [#6344](https://github.com/OSGeo/grass/pull/6344) in [OSGeo/grass](https://github.com/OSGeo/grass)
-5. 💪 Opened PR [#44](https://github.com/NishantBansal2003/grass/pull/44) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
-6. 🗣 Commented on [#66](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/66#issuecomment-3282309049) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-7. 💪 Opened PR [#67](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/67) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-8. 🗣 Commented on [#44](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/44#issuecomment-3282209399) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-9. 💪 Opened PR [#65](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/65) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-10. 🔒 Closed issue [#9](https://github.com/NishantBansal2003/go-fuzzing-example/issues/9) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+1. 💪 Opened PR [#69](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/69) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+2. 🔒 Closed issue [#9](https://github.com/NishantBansal2003/continuous-fuzzing/issues/9) in [NishantBansal2003/continuous-fuzzing](https://github.com/NishantBansal2003/continuous-fuzzing)
+3. 🔓 Reopened issue [#8](https://github.com/NishantBansal2003/continuous-fuzzing/issues/8) in [NishantBansal2003/continuous-fuzzing](https://github.com/NishantBansal2003/continuous-fuzzing)
+4. 🗣 Commented on [#68](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/68#issuecomment-3289455296) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+5. 🎉 Merged PR [#3](https://github.com/NishantBansal2003/lnd/pull/3) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+6. 💪 Opened PR [#6345](https://github.com/OSGeo/grass/pull/6345) in [OSGeo/grass](https://github.com/OSGeo/grass)
+7. 💪 Opened PR [#6344](https://github.com/OSGeo/grass/pull/6344) in [OSGeo/grass](https://github.com/OSGeo/grass)
+8. 💪 Opened PR [#44](https://github.com/NishantBansal2003/grass/pull/44) in [NishantBansal2003/grass](https://github.com/NishantBansal2003/grass)
+9. 🗣 Commented on [#66](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues/66#issuecomment-3282309049) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+10. 💪 Opened PR [#67](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/67) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
 <!--END_SECTION:activity-->
 
