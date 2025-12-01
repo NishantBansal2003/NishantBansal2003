@@ -107,15 +107,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3590099760) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-2. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3582913884) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-3. 💪 Opened PR [#338](undefined) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-4. 🗣 Commented on [#1](https://github.com/NishantBansal2003/bitcoinfuzz/pull/1#issuecomment-3581409443) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
-5. 💪 Opened PR [#1](undefined) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
-6. 🗣 Commented on [#331](https://github.com/bitcoinfuzz/bitcoinfuzz/issues/331#issuecomment-3568313481) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-7. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3566894268) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-8. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3540119805) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-9. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3538891868) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-10. ❌ Closed PR [#6](undefined) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+1. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3592508413) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+2. 💪 Opened PR [#2](undefined) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
+3. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3590099760) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+4. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3582913884) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+5. 💪 Opened PR [#338](undefined) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+6. 🗣 Commented on [#1](https://github.com/NishantBansal2003/bitcoinfuzz/pull/1#issuecomment-3581409443) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
+7. 💪 Opened PR [#1](undefined) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
+8. 🗣 Commented on [#331](https://github.com/bitcoinfuzz/bitcoinfuzz/issues/331#issuecomment-3568313481) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+9. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3566894268) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+10. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3540119805) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
 <!--END_SECTION:activity-->
 
