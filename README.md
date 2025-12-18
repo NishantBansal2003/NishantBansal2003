@@ -107,15 +107,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#338](undefined) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-2. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3649757636) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-3. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3647160677) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-4. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3632898983) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-5. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3628360544) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-6. 🗣 Commented on [#3580](https://github.com/decred/dcrd/issues/3580#issuecomment-3619856695) in [decred/dcrd](https://github.com/decred/dcrd)
-7. ❗ Opened issue [#3580](https://github.com/decred/dcrd/issues/3580) in [decred/dcrd](https://github.com/decred/dcrd)
-8. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3617545872) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-9. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3612624376) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-10. 🗣 Commented on [#8](https://github.com/NishantBansal2003/lnd/pull/8#issuecomment-3609951507) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+1. 🗣 Commented on [#331](https://github.com/bitcoinfuzz/bitcoinfuzz/issues/331#issuecomment-3665965936) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+2. ❌ Merged PR [#338](undefined) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+3. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3649757636) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+4. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3647160677) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+5. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3632898983) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+6. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3628360544) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+7. 🗣 Commented on [#3580](https://github.com/decred/dcrd/issues/3580#issuecomment-3619856695) in [decred/dcrd](https://github.com/decred/dcrd)
+8. ❗ Opened issue [#3580](https://github.com/decred/dcrd/issues/3580) in [decred/dcrd](https://github.com/decred/dcrd)
+9. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3617545872) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+10. 🗣 Commented on [#338](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/338#issuecomment-3612624376) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
 <!--END_SECTION:activity-->
 
