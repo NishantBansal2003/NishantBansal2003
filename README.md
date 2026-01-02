@@ -115,7 +115,7 @@ This is a list of my most recent activity on GitHub.
 6. 🔒 Closed issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
 7. 🗣 Commented on [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4#issuecomment-3697095963) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
 8. 🔓 Reopened issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-9. 💪 Opened PR [#19](undefined) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
+9. 💪 Opened PR [#19](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/19) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
 10. 🗣 Commented on [#18](https://github.com/NishantBansal2003/go-continuous-fuzz/pull/18#issuecomment-3688774484) in [NishantBansal2003/go-continuous-fuzz](https://github.com/NishantBansal2003/go-continuous-fuzz)
 <!--END_SECTION:activity-->
 
