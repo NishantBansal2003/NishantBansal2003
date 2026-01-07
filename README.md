@@ -107,15 +107,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/NishantBansal2003/bitcoinfuzz/pull/3) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
-2. 🎉 Merged PR [#1](https://github.com/NishantBansal2003/bitcoinfuzz/pull/1) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
-3. 🗣 Commented on [#44](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/44#issuecomment-3697227743) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
-4. 🔒 Closed issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-5. 🗣 Commented on [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4#issuecomment-3697192304) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-6. 🗣 Commented on [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4#issuecomment-3697188084) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-7. 🔓 Reopened issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-8. 🔒 Closed issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-9. 🗣 Commented on [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4#issuecomment-3697095963) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
-10. 🔓 Reopened issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+1. 💪 Opened PR [#377](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/377) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+2. 💪 Opened PR [#3](https://github.com/NishantBansal2003/bitcoinfuzz/pull/3) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
+3. 🎉 Merged PR [#1](https://github.com/NishantBansal2003/bitcoinfuzz/pull/1) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
+4. 🗣 Commented on [#44](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/44#issuecomment-3697227743) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+5. 🔒 Closed issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+6. 🗣 Commented on [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4#issuecomment-3697192304) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+7. 🗣 Commented on [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4#issuecomment-3697188084) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+8. 🔓 Reopened issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+9. 🔒 Closed issue [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
+10. 🗣 Commented on [#4](https://github.com/NishantBansal2003/go-fuzzing-example/issues/4#issuecomment-3697095963) in [NishantBansal2003/go-fuzzing-example](https://github.com/NishantBansal2003/go-fuzzing-example)
 <!--END_SECTION:activity-->
 
