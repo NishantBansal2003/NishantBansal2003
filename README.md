@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     <br>
-  <a href="https://x.com/Nishant282003">
+  <a href="https://x.com/satsbynishant">
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/29187632/nishant-bansal">
