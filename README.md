@@ -107,15 +107,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3753232806) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
-2. 🎉 Merged PR [#43](https://github.com/bitcoinfuzz/corpora/pull/43) in [bitcoinfuzz/corpora](https://github.com/bitcoinfuzz/corpora)
-3. 💪 Opened PR [#43](https://github.com/bitcoinfuzz/corpora/pull/43) in [bitcoinfuzz/corpora](https://github.com/bitcoinfuzz/corpora)
-4. 💪 Opened PR [#1](https://github.com/NishantBansal2003/corpora/pull/1) in [NishantBansal2003/corpora](https://github.com/NishantBansal2003/corpora)
-5. 🎉 Merged PR [#3](https://github.com/NishantBansal2003/bitcoinfuzz/pull/3) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
-6. 🎉 Merged PR [#377](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/377) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-7. 💪 Opened PR [#377](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/377) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
-8. 💪 Opened PR [#3](https://github.com/NishantBansal2003/bitcoinfuzz/pull/3) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
-9. 🎉 Merged PR [#1](https://github.com/NishantBansal2003/bitcoinfuzz/pull/1) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
-10. 🗣 Commented on [#44](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pull/44#issuecomment-3697227743) in [go-continuous-fuzz/go-continuous-fuzz](https://github.com/go-continuous-fuzz/go-continuous-fuzz)
+1. 🎉 Merged PR [#1](https://github.com/NishantBansal2003/corpora/pull/1) in [NishantBansal2003/corpora](https://github.com/NishantBansal2003/corpora)
+2. 🗣 Commented on [#7](https://github.com/NishantBansal2003/lnd/pull/7#issuecomment-3753232806) in [NishantBansal2003/lnd](https://github.com/NishantBansal2003/lnd)
+3. 🎉 Merged PR [#43](https://github.com/bitcoinfuzz/corpora/pull/43) in [bitcoinfuzz/corpora](https://github.com/bitcoinfuzz/corpora)
+4. 💪 Opened PR [#43](https://github.com/bitcoinfuzz/corpora/pull/43) in [bitcoinfuzz/corpora](https://github.com/bitcoinfuzz/corpora)
+5. 💪 Opened PR [#1](https://github.com/NishantBansal2003/corpora/pull/1) in [NishantBansal2003/corpora](https://github.com/NishantBansal2003/corpora)
+6. 🎉 Merged PR [#3](https://github.com/NishantBansal2003/bitcoinfuzz/pull/3) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
+7. 🎉 Merged PR [#377](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/377) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+8. 💪 Opened PR [#377](https://github.com/bitcoinfuzz/bitcoinfuzz/pull/377) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)
+9. 💪 Opened PR [#3](https://github.com/NishantBansal2003/bitcoinfuzz/pull/3) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
+10. 🎉 Merged PR [#1](https://github.com/NishantBansal2003/bitcoinfuzz/pull/1) in [NishantBansal2003/bitcoinfuzz](https://github.com/NishantBansal2003/bitcoinfuzz)
 <!--END_SECTION:activity-->
 
