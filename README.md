@@ -1,23 +1,11 @@
 ## :man_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, passionate about contributing to the open source community.
+I am a BOSS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - Experience:
   - 💼 Software Engineer at Cisco (Aug 2025 - Present)
   - ⚡ Summer of Bitcoin with Lightning Network Daemon (LND) (May 2025 – Aug 2025)
   - 🌱 Google Summer of Code with OSGeo/GRASS (May 2025 – Aug 2025)
   - 🎓 LFX Mentee with CNCF-KCL (Sept 2024 – Nov 2024)
   - 👨‍💻 SWE Intern at Cisco (May 2024 – July 2024)
-- 🌐 Blog: [medium.com/@nishant_bansal](https://medium.com/@nishant_bansal)  
+- 🌐 Blog: [nishantbansal2003.github.io](https://nishantbansal2003.github.io)
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantbansal2003/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nishant.bansal.282003@gmail.com)
-
-## :telescope: My Open Source Contributions
-| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contributions |
-| --- | --- | --- | --- |
-| [![Github Repo](https://img.shields.io/badge/OSGeo-grass-green?style=flat&logo=C)](https://github.com/OSGeo/grass) | ![GitHub Repo stars](https://img.shields.io/github/stars/OSGeo/grass?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/OSGeo/grass?style=flat) | [Issues](https://github.com/OSGeo/grass/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/OSGeo/grass/pulls?q=is%3Apr+author%3ANishantBansal2003+)
-| [![Github Repo](https://img.shields.io/badge/go--continuous--fuzz-go--continuous--fuzz-00ADD8?style=flat&logo=go)](https://github.com/go-continuous-fuzz/go-continuous-fuzz) | ![GitHub Repo stars](https://img.shields.io/github/stars/go-continuous-fuzz/go-continuous-fuzz?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/go-continuous-fuzz/go-continuous-fuzz?style=flat) | [Issues](https://github.com/go-continuous-fuzz/go-continuous-fuzz/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/go-continuous-fuzz/go-continuous-fuzz/pulls?q=is%3Apr+author%3ANishantBansal2003+)
-| [![Github Repo](https://img.shields.io/badge/ElementsProject-lightning-purple?style=flat&logo=python)](https://github.com/ElementsProject/lightning) | ![GitHub Repo stars](https://img.shields.io/github/stars/ElementsProject/lightning?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/ElementsProject/lightning?style=flat) | [Issues](https://github.com/ElementsProject/lightning/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/ElementsProject/lightning/pulls?q=is%3Apr+author%3ANishantBansal2003+)
-| [![Github Repo](https://img.shields.io/badge/lightningnetwork-lnd-blue?style=flat&logo=go)](https://github.com/lightningnetwork/lnd) | ![GitHub Repo stars](https://img.shields.io/github/stars/lightningnetwork/lnd?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lightningnetwork/lnd?style=flat) | [Issues](https://github.com/lightningnetwork/lnd/issues?q=is%3Aissue%20author%3ANishantBansal2003%20) \| [Pull Requests](https://github.com/lightningnetwork/lnd/pulls?q=is%3Apr+author%3ANishantBansal2003+)
-| [![Github Repo](https://img.shields.io/badge/bitcoinfuzz-bitcoinfuzz-orange?style=flat&logo=go)](https://github.com/bitcoinfuzz/bitcoinfuzz) | ![GitHub Repo stars](https://img.shields.io/github/stars/bitcoinfuzz/bitcoinfuzz?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/bitcoinfuzz/bitcoinfuzz?style=flat) | [Pull Requests](https://github.com/bitcoinfuzz/bitcoinfuzz/pulls?q=is%3Apr+author%3ANishantBansal2003+)
-| [![Github Repo](https://img.shields.io/badge/kcl--lang-kpm-yellow?style=flat&logo=go)](https://github.com/kcl-lang/kpm) | ![GitHub Repo stars](https://img.shields.io/github/stars/kcl-lang/kpm?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/kcl-lang/kpm?style=flat) | [Pull Requests](https://github.com/kcl-lang/kpm/pulls?q=is%3Apr+author%3ANishantBansal2003+)
-| [![Github Repo](https://img.shields.io/badge/kcl--lang-modules-rainbow?style=flat&logo=githubactions)](https://github.com/kcl-lang/modules) | ![GitHub Repo stars](https://img.shields.io/github/stars/kcl-lang/modules?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/kcl-lang/modules?style=flat) | [Pull Requests](https://github.com/kcl-lang/modules/pulls?q=is%3Apr+author%3ANishantBansal2003+)
-| [![Github Repo](https://img.shields.io/badge/karmada--io-karmada-lightblue?style=flat&logo=go)](https://github.com/karmada-io/karmada) | ![GitHub Repo stars](https://img.shields.io/github/stars/karmada-io/karmada?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/karmada-io/karmada?style=flat) | [Pull Requests](https://github.com/karmada-io/karmada/pulls?q=is%3Apr+author%3ANishantBansal2003+)
