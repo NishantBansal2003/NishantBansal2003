@@ -1,6 +1,7 @@
 ## :man_technologist: About Me :
 I am a BOSS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - Experience:
+  - 🔐 Independent Bitcoin Lightning Network Security Researcher supported by Spiral (April 2026 – Present)
   - 💼 Software Engineer at Cisco (Aug 2025 - April 2026)
   - ⚡ Summer of Bitcoin with Lightning Network Daemon (LND) (May 2025 – Aug 2025)
   - 🌱 Google Summer of Code with OSGeo/GRASS (May 2025 – Aug 2025)
